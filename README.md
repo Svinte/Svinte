@@ -1,6 +1,6 @@
 # Svante Kokkoniemi
 
----
+
 
 <p align="center">
   <picture>
@@ -30,7 +30,9 @@
   </a>
 </p>
 
----
+
+
+## About Me:
 
 ```php
 class DeveloperProfile
@@ -53,7 +55,7 @@ class DeveloperProfile
 }
 ```
 
----
+
 
 ## 📌 Pinned Repositories
 
@@ -68,9 +70,9 @@ class DeveloperProfile
   </a>
 </p>
 
----
 
-## Top Tools:
+
+## 🔧 Top Tools:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" width="70" alt="Laravel" />
@@ -135,7 +137,7 @@ class DeveloperProfile
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" width="70" alt="Ubuntu" />
 </p>
 
----
+
 
 ## 📊 More stats:
 
