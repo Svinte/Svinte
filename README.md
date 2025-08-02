@@ -65,9 +65,16 @@ class DeveloperProfile
   </a>
   &nbsp;
   &nbsp;
+  <a href="https://github.com/Svinte/Botsafe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Svinte&repo=Botsafe&theme=dark" alt="Pinned Botsafe" />
+  </a>
+  &nbsp;
+  &nbsp;
   <a href="https://github.com/Svinte/FrontCloner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Svinte&repo=FrontCloner&theme=dark" alt="Pinned FrontCloner" />
   </a>
+  &nbsp;
+  &nbsp;
 </p>
 
 
