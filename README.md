@@ -152,7 +152,7 @@ class DeveloperProfile
 ## 📊 More stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svinte&show_icons=true&theme=transparent&border_color=2e353c&custom_title=GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=svinte&show_icons=true&theme=transparent&border_color=2e353c&custom_title=GitHub_Stats">
   &nbsp;
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svinte&layout=donut&langs_count=5&theme=transparent&hide_progress=false&hide=html&border_color=2e353c">
