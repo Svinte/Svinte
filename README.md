@@ -72,6 +72,11 @@ class DeveloperProfile
   </a>
   &nbsp;
   &nbsp;
+  <a href="https://github.com/Svinte/Wordle-Solver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Svinte&repo=Wordle-Solver&theme=transparent&border_color=2e353c" alt="Pinned FrontCloner" />
+  </a>
+  &nbsp;
+  &nbsp;
 </p>
 
 
